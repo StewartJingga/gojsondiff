@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"sort"
 
-	dmp "github.com/sergi/go-diff/diffmatchpatch"
+	dmp "github.com/goto/go-diff/diffmatchpatch"
 	lcs "github.com/yudai/golcs"
 )
 
