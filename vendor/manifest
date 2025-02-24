@@ -34,10 +34,10 @@
 			"notests": true
 		},
 		{
-			"importpath": "github.com/sergi/go-diff/diffmatchpatch",
-			"repository": "https://github.com/sergi/go-diff",
+			"importpath": "github.com/goto/go-diff/diffmatchpatch",
+			"repository": "https://github.com/goto/go-diff",
 			"vcs": "git",
-			"revision": "24e2351369ec4949b2ed0dc5c477afdd4c4034e8",
+			"revision": "b4f37f953393542cafea568b8ffb38855595a570",
 			"branch": "master",
 			"path": "/diffmatchpatch",
 			"notests": true
